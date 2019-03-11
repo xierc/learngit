@@ -5,3 +5,4 @@ Git tracks changes.
 This is a change.
 Creating a new branch is quick and simple.
 Dev branch.
+Stash.
